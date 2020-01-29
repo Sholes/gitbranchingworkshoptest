@@ -1,1 +1,1 @@
-this is test
+This repo is used to demonstrate git flow workflows
